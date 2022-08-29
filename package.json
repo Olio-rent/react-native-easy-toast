@@ -1,6 +1,6 @@
 {
-  "name": "@flownform/react-native-easy-toast",
-  "version": "2.0.0",
+  "name": "@olio-rent/react-native-easy-toast",
+  "version": "2.0.1",
   "description": "A react native module to show toast like android, it works on iOS and Android.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flownform/react-native-easy-toast.git"
+    "url": "git+https://github.com/olio-rent/react-native-easy-toast.git"
   },
   "keywords": [
     "react-native",
@@ -25,9 +25,6 @@
   ],
   "author": "crazycodeboy",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/crazycodeboy/react-native-easy-toast/issues"
-  },
   "dependencies": {
     "deprecated-react-native-prop-types": "^2.3.0",
     "prop-types": "^15.5.10"
